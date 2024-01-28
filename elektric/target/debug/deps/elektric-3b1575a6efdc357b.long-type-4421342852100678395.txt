@@ -1,0 +1,1 @@
+Map<Map<Filter<FlatMap<SplitWhitespace<'_>, std::str::Split<'_, &str>, {closure@src/main.rs:7:23: 7:26}>, {closure@src/main.rs:8:21: 8:24}>, {closure@src/main.rs:9:18: 9:21}>, {closure@src/main.rs:10:18: 10:21}>
