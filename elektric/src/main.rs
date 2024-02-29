@@ -3,7 +3,7 @@ fn main() {
     if let Ok(result) = process::Command::new("acpi").output() {
         let output = String::from_utf8(result.stdout).unwrap();
         let status;
-        if output.contains("discharging") {
+        if output.contains("Discharging") {
             status = "-"
         } else {
             status = "+"
